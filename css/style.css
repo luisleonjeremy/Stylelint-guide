@@ -1,0 +1,7 @@
+.body {
+  text-align: center;
+  background-color: blue;
+  text-decoration: none;
+  text-overflow: clip;
+  font-family: Helvetica, Arial, Verdana, Tahoma, sans-serif;
+}

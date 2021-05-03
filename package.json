@@ -1,0 +1,24 @@
+{
+  "name": "stylelint-guide",
+  "version": "1.0.0",
+  "description": "instalamos la extensión de vscode",
+  "main": "stylelint.js",
+  "scripts": {
+    "lint": "npx stylelint \"**/*.css\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisleonjeremy/Stylelint-guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luisleonjeremy/Stylelint-guide/issues"
+  },
+  "homepage": "https://github.com/luisleonjeremy/Stylelint-guide#readme",
+  "devDependencies": {
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^22.0.0"
+  }
+}
